@@ -8,13 +8,14 @@
 <img src="images/worldbank.jpeg?raw=true"/>
 
 
+### Data Analysis
 ---
-[Gender based vilence: How Kenya <br> compares to the rest of the World](https://medium.com/analytics-vidhya/gender-based-violence-how-kenya-compares-with-the-rest-of-the-world-12cf08118d50/)
+[Gender based vilence: How Kenya compares to the rest of the World](https://medium.com/analytics-vidhya/gender-based-violence-how-kenya-compares-with-the-rest-of-the-world-12cf08118d50/)
 <img src="images/gender.jpeg?raw=true"/>
 
 ---
 
-### Data Analysis
+
 
 
 ### Links to the Projects
@@ -31,5 +32,5 @@
 
 
 ---
-<p style="font-size:11px">Eliud Njoki Portfolio &#169; 2021 <a href="#"></a></p>
+<p style="font-size:13px">Eliud Njoki Portfolio &#169; 2021 <a href="3liud.github.io"></a></p>
 <!-- Remove above link if you don't want to attibute -->
