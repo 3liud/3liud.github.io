@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Eliud Njoki Portfolio (c) 2021 <a href="#"></a></p>
+<p style="font-size:11px">Eliud Njoki Portfolio &#169; 2021 <a href="#"></a></p>
 <!-- Remove above link if you don't want to attibute -->
