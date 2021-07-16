@@ -7,20 +7,20 @@
 [World Bank Data Dashboard - Exploring Top 10 Economies Land use](/https://udacity-worldbank-dboard034x.herokuapp.com)
 <img src="images/worldbank.jpeg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gender based vilence: How Kenya <br> compares to the rest of the World](https://medium.com/analytics-vidhya/gender-based-violence-how-kenya-compares-with-the-rest-of-the-world-12cf08118d50/)
+<img src="images/gender.jpeg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Analysis
+
+
+### Links to the Projects
 
 - [World Bank Data Dashboard](https://udacity-worldbank-dboard034x.herokuapp.com/)
-- [Project 2 Title](http://example.com/)
+- [Gender based violence: How Kenya Compares to the rest of the world](https://medium.com/analytics-vidhya/gender-based-violence-how-kenya-compares-with-the-rest-of-the-world-12cf08118d50/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
