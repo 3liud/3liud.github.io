@@ -4,7 +4,7 @@
 
 ### Data Dashboard
 
-[World Bank Data Dashboard - Exploring Top 10 Economies Land use](/sample_page)
+[World Bank Data Dashboard - Exploring Top 10 Economies Land use](/https://udacity-worldbank-dboard034x.herokuapp.com)
 <img src="images/worldbank.jpeg?raw=true"/>
 
 ---
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Eliud Njoki Portfolio (c) 2021 <a href="#"></a></p>
 <!-- Remove above link if you don't want to attibute -->
