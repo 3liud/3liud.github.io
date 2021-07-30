@@ -22,7 +22,7 @@
 
 - [World Bank Data Dashboard](https://udacity-worldbank-dboard034x.herokuapp.com/)
 - [Gender based violence: How Kenya Compares to the rest of the world](https://medium.com/analytics-vidhya/gender-based-violence-how-kenya-compares-with-the-rest-of-the-world-12cf08118d50/)
-- [Project 3 Title](http://example.com/)
+- [Data Cleaning articles](https://3liud.medium.com/a-data-cleaning-journey-2b0146407e44/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
